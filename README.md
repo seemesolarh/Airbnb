@@ -1,7 +1,9 @@
 # Airbnb
 
 An HR Analytics Dashboard created using Tableau! This dashboard provides a comprehensive overview of key HR metrics, designed to help organizations make data-driven decisions to optimize workforce performance and engagement.
+
 Key Insights:
+
 Employee Overview: The organization currently has 1,470 employees with an attrition count of 237 and an attrition rate of 16.12%. There are 1,233 active employees, with an average age of 37 years.
 
 Attrition Analysis: A breakdown of attrition by department shows the R&D department has the highest attrition rate at 56.12%, followed by Sales at 38.82%. Insights into education reveal that Life Sciences and Medical fields experience the highest attrition.
